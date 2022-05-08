@@ -14,15 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-let hadanhtuan = {
-  pronouns: "He" | "Him",
-  code: [Javascript, C#, Java],
-  tools: {
-    Javascript: ["Node", "Express"],
-    C#: ["Winform"]
-  },
-  databases: ["MongoDB", "MySQL", "Oracle"],
-  target: "Become a backend dev"
-}
-</p>
+```
+let hadanhtuan = {  
+  pronouns: "He" | "Him",  
+  age: 20,
+  code: [Javascript, C#, Java],  
+  tools: {  
+    Javascript: ["Node", "Express"],  
+    C#: ["Winform"]  
+  },  
+  databases: ["MongoDB", "MySQL", "Oracle"],  
+  target: "Become a backend dev"  
+}  
+```
+
+
+
+
+![](https://www.freecodecamp.org/news/content/images/2019/07/best-js-meme-to-date-2.png)
+
+
+
