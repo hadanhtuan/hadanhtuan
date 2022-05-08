@@ -24,7 +24,7 @@ let hadanhtuan = {
     C#: ["Winform"]  
   },  
   databases: ["MongoDB", "MySQL", "Oracle"],  
-  target: "Become a backend dev"  
+  aim: "Become a backend dev"  
 }  
 ```
 
