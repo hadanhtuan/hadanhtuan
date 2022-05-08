@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-let hadanhtuan = {</br>
+<p>
+let hadanhtuan = {
   pronouns: "He" | "Him",
   code: [Javascript, C#, Java],
   tools: {
@@ -24,3 +25,4 @@ let hadanhtuan = {</br>
   databases: ["MongoDB", "MySQL", "Oracle"],
   target: "Become a backend dev"
 }
+</p>
