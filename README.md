@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-let hadanhtuan = {
+let hadanhtuan = {</br>
   pronouns: "He" | "Him",
   code: [Javascript, C#, Java],
   tools: {
