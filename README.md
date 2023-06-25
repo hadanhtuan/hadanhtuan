@@ -31,6 +31,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MaterialUI.js-282C34?logo=MaterialUI.js&logoColor=FFFFFF" alt="MaterialUI.js logo" title="MaterialUI.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MaterialUI-282C34?logo=MaterialUI&logoColor=FFFFFF" alt="MaterialUI logo" title="MaterialUI" height="25" /></span>
 &nbsp;
 
