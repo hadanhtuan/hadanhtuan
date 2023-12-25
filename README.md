@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Local & Buddy**
 
-- 💬 Ask me about **NodeJS, NestJS, Go**
+- 💬 Ask me about **NodeJS, NestJS**
 
 - 📫 How to reach me **hadanhtuan1210@gmail.comn**
 
