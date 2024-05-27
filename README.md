@@ -34,6 +34,7 @@ const hadanhtuan = {
 ```
 
 - 🔭 I’m currently working on getting my shit together.
+- 🎓 College: University of Information Technology ( UIT )
 - 🔮 What do I do? - Do the backend stuff and pray there is no bug.
 - 🤔 I’m looking for help with Cloud services in AWS. 
 - 💬 Ask me about: anything but my life.
