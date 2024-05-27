@@ -25,7 +25,7 @@ const hadanhtuan = {
             Golang : ["GORM", "gRPC"]
         },
         clouds: ["AWS", "Docker", "Github Action", "Jenkins"],
-        databases: ["MongoDB", "MySql", "PostgreSQL", "Redis", "Elasticsearch", "DynamoDB"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Elasticsearch", "DynamoDB"],
         misc: ["RabbitMQ", "Socket", "RPC", "gRPC"]
     },
     currentProject: "Working on a microservices project",
