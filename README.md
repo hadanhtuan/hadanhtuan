@@ -44,9 +44,7 @@ const hadanhtuan = {
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/anmolpant/SaniText">
     <img width="60%" align="right" alt="HaDanhTuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hadanhtuan&show_icons=true&hide_border=true" />
-  </a>
   
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
