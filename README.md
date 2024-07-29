@@ -12,8 +12,8 @@ _**Backend Developer**_
 ```javascript
 const hadanhtuan = {
     pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "Typescript", "Golang"],
-    askMeAbout: ["Web Dev", "Backend", "Microservices", "Software Development", "tech"],
+    code: ["Golang", "Java", "Javascript", "Typescript"],
+    askMeAbout: ["Web Dev", "Backend", "Microservices", "Software Development", "DevOps"],
     technologies: {
         frontEnd: {
             js: ["ReactJS", "NextJS"],
@@ -23,7 +23,7 @@ const hadanhtuan = {
             Typescript: ["node", "ExpressJS", "NestJS", "TypeORM"],
             Golang : ["GORM", "gRPC"]
         },
-        clouds: ["AWS", "Docker", "Github Action", "Jenkins"],
+        DevOps: ["AWS", "Docker", "Github Action", "Jenkins"],
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Elasticsearch", "DynamoDB"],
         misc: ["RabbitMQ", "Socket", "RPC", "gRPC"]
     },
