@@ -21,7 +21,8 @@ const hadanhtuan = {
         },
         backEnd: {
             Typescript: ["node", "ExpressJS", "NestJS", "TypeORM"],
-            Golang : ["GORM", "gRPC"]
+            Golang : ["GORM", "gRPC"],
+            Java: ["Spring Boot", "Liquibase"]
         },
         DevOps: ["AWS", "Docker", "Github Action", "Jenkins"],
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Elasticsearch", "DynamoDB"],
